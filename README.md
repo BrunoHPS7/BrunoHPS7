@@ -39,9 +39,4 @@ Estudante de Engenharia de Computação na UFOP, com foco em **Visão Computacio
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/brunothinker_)
 
-<div align="center">
-  <br/>
-  <img src="https://visitcount.itsvg.in/api?id=BrunoHPS7&icon=0&color=0" alt="Views counter" />
-</div>
-
 ---
