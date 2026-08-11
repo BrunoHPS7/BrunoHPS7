@@ -35,21 +35,6 @@ Estudante de Engenharia de Computação na UFOP, com foco em **Visão Computacio
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BrunoHPS7&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Bruno's GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoHPS7&theme=dark&hide_border=false&include_all_commits=true&layout=compact" alt="Top Languages" height="160" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=BrunoHPS7&theme=dark&hide_border=false" alt="GitHub Streak" />
-</div>
-
----
-
 ### 🌐 Conecte-se comigo
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/brunothinker_)
