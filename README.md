@@ -13,22 +13,22 @@ Estudante de Engenharia de Computação na UFOP, com foco em **Visão Computacio
 
 ### 💻 Stack & Ecossistema
 
-**Linguagens & Scripting**
+**Linguagens:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 
-**Visão Computacional & Computação Científica**
+**Visão Computacional:**
 ![COLMAP](https://img.shields.io/badge/COLMAP-4B0082?style=for-the-badge)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Pillow](https://img.shields.io/badge/Pillow-111111?style=for-the-badge&logo=python&logoColor=white)
 
-**Persistência & Interfaces**
+**Persistência & Interfaces:**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Flet](https://img.shields.io/badge/Flet-00599C?style=for-the-badge&logo=flutter&logoColor=white)
 
-**Sistema Operacional & Ambiente**
+**Infraestrutura:**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![SSH](https://img.shields.io/badge/SSH-4A4A4A?style=for-the-badge&logo=openbsd&logoColor=white)
